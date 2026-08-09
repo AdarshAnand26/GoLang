@@ -3,7 +3,7 @@
 //🚶
 // Lock Door
 // ↓
-// Bathroom //only one persone useot as a time, same only one goroutine use some resourse at a time.
+// Bathroom //only one persone use it at a time, same only one goroutine use some resourse at a time.
 // ↓
 // Unlock Door
 // ↓
